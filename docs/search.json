@@ -2,22 +2,22 @@
   {
     "objectID": "datasciencelol.html",
     "href": "datasciencelol.html",
-    "title": "datasciencelol",
+    "title": "Data Science Questionnaire",
     "section": "",
     "text": "Being a data scientist (to me) is having the ability to utilize statistics and algorithms to solve problems and create autonomous working systems. A data scientist should be an expert in theoretical computer science and programming ability to optimize systems in organizations.\nData scientists and statisticians both use statistics in their daily lives. I primarily believe the difference lies in some of the other tools that each use. Statisticians tend to use more mathematical and possibly econometric theory, whereas data scientists are primarily concerned with the computer science aspect of creating. I believe both have similar mindsets with day-to-day life, and each have desirable skillsets!\nI love both of these areas to be frank. I think I prefer statistician work a bit more, but I love the automation and optimization part of data science. Ideally, I find a position in industry combining my favorite parts of both fields!"
   },
   {
     "objectID": "datasciencelol.html#first-question-section",
     "href": "datasciencelol.html#first-question-section",
-    "title": "datasciencelol",
+    "title": "Data Science Questionnaire",
     "section": "",
     "text": "Being a data scientist (to me) is having the ability to utilize statistics and algorithms to solve problems and create autonomous working systems. A data scientist should be an expert in theoretical computer science and programming ability to optimize systems in organizations.\nData scientists and statisticians both use statistics in their daily lives. I primarily believe the difference lies in some of the other tools that each use. Statisticians tend to use more mathematical and possibly econometric theory, whereas data scientists are primarily concerned with the computer science aspect of creating. I believe both have similar mindsets with day-to-day life, and each have desirable skillsets!\nI love both of these areas to be frank. I think I prefer statistician work a bit more, but I love the automation and optimization part of data science. Ideally, I find a position in industry combining my favorite parts of both fields!"
   },
   {
     "objectID": "datasciencelol.html#second-code-section",
     "href": "datasciencelol.html#second-code-section",
-    "title": "datasciencelol",
+    "title": "Data Science Questionnaire",
     "section": "Second Code Section",
-    "text": "Second Code Section\nSet variable y to be a list of Pedal Widths from the Iris dataset, then find the class, type, and structure of y.\n\ny &lt;- density(iris$Petal.Width)\nclass(y)\n\n[1] \"density\"\n\ntypeof(y)\n\n[1] \"list\"\n\nstructure(y)\n\n\nCall:\n    density.default(x = iris$Petal.Width)\n\nData: iris$Petal.Width (150 obs.);  Bandwidth 'bw' = 0.2518\n\n       x                 y            \n Min.   :-0.6555   Min.   :0.0005272  \n 1st Qu.: 0.3222   1st Qu.:0.0832811  \n Median : 1.3000   Median :0.2653324  \n Mean   : 1.3000   Mean   :0.2554014  \n 3rd Qu.: 2.2778   3rd Qu.:0.4193541  \n Max.   : 3.2555   Max.   :0.4978541  \n\n\nNow, use the plot function to create a density graph of Petal Width."
+    "text": "Second Code Section\nSet variable y to be a list of Pedal Widths from the Iris dataset, then find the class, type, and structure of y.\n\ny &lt;- density(iris$Petal.Width)\nclass(y)\n\n[1] \"density\"\n\ntypeof(y)\n\n[1] \"list\"\n\nstructure(y)\n\n\nCall:\n    density.default(x = iris$Petal.Width)\n\nData: iris$Petal.Width (150 obs.);  Bandwidth 'bw' = 0.2518\n\n       x                 y            \n Min.   :-0.6555   Min.   :0.0005272  \n 1st Qu.: 0.3222   1st Qu.:0.0832811  \n Median : 1.3000   Median :0.2653324  \n Mean   : 1.3000   Mean   :0.2554014  \n 3rd Qu.: 2.2778   3rd Qu.:0.4193541  \n Max.   : 3.2555   Max.   :0.4978541  \n\n\nNow, use the plot function to create a density graph of Petal Width. Echo false hides the code chunk."
   }
 ]
